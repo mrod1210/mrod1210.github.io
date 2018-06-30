@@ -1,0 +1,22 @@
+img{
+	height: 8%;
+	width: 8%;
+	float: left;
+}
+h1{
+	text-align: center;
+	float: left;
+}
+
+h2 style {
+	text-align: center;
+}
+body {
+	background-image: url("XXXwhite.jpg");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+}
+nav {
+	text-align: right;
+}
