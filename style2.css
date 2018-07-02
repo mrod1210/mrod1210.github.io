@@ -6,13 +6,15 @@ img{
 h1{
 	text-align: center;
 	float: left;
+	color: white;
+	text-decoration: underline;
 }
 
 h2 style {
 	text-align: center;
 }
 body {
-	background-image: url("XXXwhite.jpg");
+	background-image: url("xxxtentacionblue.jpg");
 	background-repeat: no-repeat;
 	background-attachment: fixed;
 	background-size: cover;
@@ -20,3 +22,67 @@ body {
 nav {
 	text-align: right;
 }
+.bluehair{
+
+	 transition: transform .2s;
+	text-align: center;
+	margin: 110px 170px;
+}
+
+.bluehair:hover{
+	 transform: scale(6.0) translate(40px, 55px);
+
+}
+.seventeenA:hover{
+	transform: scale(6.0) translate(-40px, 55px);
+}
+.seventeenA{
+	transition: transform .2s;
+	text-align: center;
+	margin-top: 110px;
+	margin-right: 170px;
+}
+.textcenter{
+	clear: both;
+
+}
+.topnav a:hovor {
+	text-decoration: none;
+	color:yellow;
+	background-color: black;
+}
+.topnav a{
+	text-decoration: none;
+	color: black;
+	padding:10px;
+	font-weight: 600;
+	float: right;
+	color: white;
+}
+.topnav{
+	padding: 24px 0px;
+	text-align: left;
+}
+.clear{
+	clear:both;
+}
+footer{
+	margin-top: 600px;
+}
+.seventeenA{
+	float: right;
+}
+p{
+	color: white;
+	float: left;
+
+}
+h2{
+	float: left;
+	color: white;
+}
+.section1 {
+	width: 350px;
+	font-size: 25px;
+}
+
