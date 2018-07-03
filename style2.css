@@ -74,15 +74,25 @@ footer{
 }
 p{
 	color: white;
-	float: left;
 
+}
+
+.paragraph1{
+	float: left;
+	width: 350px;
+}
+.paragraph2{
+	float: right;
+	width: 350px;
+	text-align: -webkit-right;
 }
 h2{
 	float: left;
 	color: white;
 }
 .section1 {
-	width: 350px;
+	clear:both;
 	font-size: 25px;
+
 }
 
